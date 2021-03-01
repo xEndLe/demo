@@ -16,7 +16,6 @@
    "promo": "-14%",
    "miseEnCirculation": "Mise en circulation :\n\n                            02/01/2021",
    "doorNumber": "Voiture éligible à la prime à la conversion",
-   "consommation": "112 g/km - Cat.B (WLTP combiné)\n                            \n\n                                                                        0 g/km - Cat.A (NEDC)",
    "kmNumber": "Tissu noir",
    "longueur": "3,94m",
    "hauteur": "1,47m",
@@ -25,7 +24,6 @@
    "vitesseMax": "10,3 sec",
    "puissanceDin": "100 ch",
    "Cylindrée": "1 497 cc",
-   "garantie": "Garantie\n                36 mois",
    "imageUrl-src": "https://storage.googleapis.com/aramis_vehicles/production/betamodels/i_1585552248074.jpg"
  },
  {
@@ -43,7 +41,6 @@
    "promo": null,
    "miseEnCirculation": "Mise en circulation :\n\n                            26/07/2016",
    "doorNumber": "Voiture éligible à la prime à la conversion",
-   "consommation": "0 g/km - Cat.A (NEDC)",
    "kmNumber": "Sellerie Tissu",
    "longueur": "4,45m",
    "hauteur": "1,55m",
@@ -52,7 +49,6 @@
    "vitesseMax": "144 km/h",
    "puissanceDin": null,
    "Cylindrée": "3 CV",
-   "garantie": "Garantie Etendue\n                12 mois",
    "imageUrl-src": "https://storage.googleapis.com/aramis_vehicles/production/stock/vo/439950/image/360/nissan-leaf-acenta-20210219051502-439950-100001-xl.jpg"
  },
   ],
