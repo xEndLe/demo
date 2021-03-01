@@ -47,7 +47,7 @@
    "vitesseMax": "144 km/h",
    "puissanceDin": null,
    "imageUrl-src": "https://storage.googleapis.com/aramis_vehicles/production/stock/vo/439950/image/360/nissan-leaf-acenta-20210219051502-439950-100001-xl.jpg"
- },
+ }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
