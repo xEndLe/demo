@@ -2,6 +2,7 @@
 {
   "posts": [
   {
+    "id": 1,
    "web-scraper-order": "1614639229-326",
    "web-scraper-start-url": "https://www.aramisauto.com/",
    "category-link": "Hybride",
@@ -29,6 +30,7 @@
    "imageUrl-src": "https://storage.googleapis.com/aramis_vehicles/production/betamodels/i_1585552248074.jpg"
  },
  {
+   "id": 2,
    "web-scraper-order": "1614639263-336",
    "web-scraper-start-url": "https://www.aramisauto.com/",
    "category-link": "Electrique",
