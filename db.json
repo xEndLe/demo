@@ -2,14 +2,9 @@
 {
   "posts": [
    {
-      "id": 1,
+     "id": 1,
      "name": "Toyota Yaris",
-     "type": "Hybride",
-     "typeBoite": "Boîte automatique ou robotisée",
-     "priceFinancement": 204,
-     "price": "19 890",
-     "promo": "-14%",
-     "doorNumber": "Voiture éligible à la prime à la conversion"
+     "type": "Hybride"
   }
   ],
   "comments": [
