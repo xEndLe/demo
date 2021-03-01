@@ -2,7 +2,7 @@
   "vehicules": [
     { "id": 1, "brand": "Renault", "model": "Megane", "year": "2013" },
     { "id": 1, "brand": "Renault", "model": "Megane 2", "year": "2013" },
-    { "id": 1, "brand": "Renault", "model": "Megane 3", "year": "2013" },
+    { "id": 1, "brand": "Renault", "model": "Megane 3", "year": "2013" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
