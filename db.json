@@ -2,12 +2,6 @@
 {
   "posts": [
     {
-   "web-scraper-order": "1614639229-326",
-   "web-scraper-start-url": "https://www.aramisauto.com/",
-   "category-link": "Hybride",
-   "category-link-href": "https://www.aramisauto.com/achat/hybride/",
-   "sub-category-link": "TOYOTA Yaris 4 Nouvell...\n                    \n                                                                        \n                            116h - Design suréquipée\n                        \n                    \n                    \n                                                                        \n                            Hybride - Automatique",
-   "sub-category-link-href": "https://www.aramisauto.com/voitures/toyota/yaris-4-nouvelle/design/v237766",
    "name": "Toyota Yaris",
    "type": "Hybride",
    "typeBoite": "Boîte automatique ou robotisée",
