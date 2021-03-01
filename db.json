@@ -1,9 +1,33 @@
 
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+   "web-scraper-order": "1614639229-326",
+   "web-scraper-start-url": "https://www.aramisauto.com/",
+   "category-link": "Hybride",
+   "category-link-href": "https://www.aramisauto.com/achat/hybride/",
+   "sub-category-link": "TOYOTA Yaris 4 Nouvell...\n                    \n                                                                        \n                            116h - Design suréquipée\n                        \n                    \n                    \n                                                                        \n                            Hybride - Automatique",
+   "sub-category-link-href": "https://www.aramisauto.com/voitures/toyota/yaris-4-nouvelle/design/v237766",
+   "name": "Toyota Yaris",
+   "type": "Hybride",
+   "typeBoite": "Boîte automatique ou robotisée",
+   "priceFinancement": 204,
+   "price": "19 890",
+   "promo": "-14%",
+   "miseEnCirculation": "Mise en circulation :\n\n                            02/01/2021",
+   "doorNumber": "Voiture éligible à la prime à la conversion",
+   "consommation": "112 g/km - Cat.B (WLTP combiné)\n                            \n\n                                                                        0 g/km - Cat.A (NEDC)",
+   "kmNumber": "Tissu noir",
+   "longueur": "3,94m",
+   "hauteur": "1,47m",
+   "nbPlaces": 5,
+   "nbCylindre": 3,
+   "vitesseMax": "10,3 sec",
+   "puissanceDin": "100 ch",
+   "Cylindrée": "1 497 cc",
+   "garantie": "Garantie\n                36 mois",
+   "imageUrl-src": "https://storage.googleapis.com/aramis_vehicles/production/betamodels/i_1585552248074.jpg"
+ },
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
